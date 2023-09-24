@@ -33,7 +33,7 @@ node kusobypass.js
 
 Program akan meminta Anda untuk memasukkan URL Kusonime yang ingin Anda analisis. Masukkan URL tersebut dan tekan "Enter."
 
-(Tidak semua URL Kusonime dapat di bypass)
+**_(Tidak semua URL Kusonime dapat di bypass)_**
 
 ## Langkah 6: Tampilkan Hasil
 Program akan mengekstrak informasi dari halaman web tersebut dan menampilkannya di terminal.
