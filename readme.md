@@ -11,6 +11,7 @@ Clone repositori KusoBypass dari GitHub dengan menjalankan perintah berikut di t
 
 ```bash
 git clone https://github.com/shidiqmuh0/kusobypass.git
+```
 
 ## Langkah 3: Instal Dependensi
 
@@ -18,6 +19,7 @@ Buka terminal atau command prompt, dan arahkan ke direktori KusoBypass yang baru
 
 ```bash
 npm install axios cheerio readline
+```
 
 ## Langkah 4: Jalankan Program
 
@@ -25,6 +27,7 @@ Setelah dependensi terinstal, jalankan program KusoBypass dengan perintah beriku
 
 ```bash
 node kusobypass.js
+```
 
 ## Langkah 5: Masukkan URL Kusonime
 
